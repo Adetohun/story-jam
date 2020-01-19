@@ -1,2 +1,3 @@
 # story-jam
-GitHub Collaborators Practice
+
+Once upon a time there was a boy ...
